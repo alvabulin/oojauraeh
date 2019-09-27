@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://roongiequ.philvacca.com/sitemap.xml
